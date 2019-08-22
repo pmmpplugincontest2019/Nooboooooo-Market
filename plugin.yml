@@ -1,0 +1,10 @@
+---
+name: Market
+main: market\Main
+api: [3.0.0]
+version: "1.0"
+author: Nooboooooo
+permissions:
+  market.command.market:
+    default: true
+    description:
